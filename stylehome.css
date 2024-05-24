@@ -1,0 +1,14 @@
+#socials {padding-right: 20px;
+}
+#socials p{padding-left: 35px; padding-top: 35px;}
+body{
+    background-color: grey;
+    color: #fff;
+}
+.group{ display:flex}
+#links{ padding-inline-start: 68%;
+margin:30px 20px
+}
+
+#picture{ padding-right: 20px;}
+/*Dont forget to change the page background picture*/
