@@ -1,0 +1,54 @@
+#links{
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 170px;
+    width: 15%;
+    background-color:aqua;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-size: 30PX;
+    font-weight: bold;
+}
+#links p{
+    line-height: 0;
+    padding-left: 70px;
+}
+.group{
+    display: flex;
+}
+#MArty{
+    width: 70%;
+    padding-left: 50px;
+}
+#news{
+    width: 10%;
+}
+#news p{
+    line-height: 0;
+    padding-left: 0px;
+}
+#first{
+    border-bottom: 20px ;
+    
+    height: 3x;
+    width: 40%;
+    margin-left: 10%;
+    text-align: center;
+}
+#second{
+    background-color: blue;
+    width: 100%;
+    height: 16px;
+    border: 20px;
+}
+h3{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+.group{
+    display: flex;
+}
